@@ -1,7 +1,6 @@
 # Stroganoff - Paola Carosella
 
 ## Ingredientes do Stroganoff para 4 pessoas
- 
  - 100 ml de azeite de oliva
  - 50 de manteiga
  - 2 cebolas grandes (600 gramas) 
@@ -16,6 +15,4 @@
  - 1 colher de sopa de mostarda de Dijon
  - 150 ml de creme de leite (aproximadamente 1 xicara
  - folhas de salsinha 3 colheres de sopa
-
-### Link
-[Modo de Preparo](https://www.youtube.com/watch?v=8qFZ0N4R68k)
+### [LinkModo de Preparo](https://www.youtube.com/watch?v=8qFZ0N4R68k)
